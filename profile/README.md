@@ -49,12 +49,12 @@ Jake K | [Github](https://github.com/LlamaBack) | [LinkedIn](https://www.linkedi
 
 <img src="https://avatars.githubusercontent.com/u/102932532?s=120&v=4" />
 
-Sunny Moore | [Github](https://github.com/sunny-moore) | [LinkedIn](https://www.linkedin.com/in/sunny-moore/) |
+Sunny M | [Github](https://github.com/sunny-moore) | [LinkedIn](https://www.linkedin.com/in/sunny-moore/) |
 
 
 <img src="https://avatars.githubusercontent.com/u/59062958?s=120&v=4" />
 
-Sandy M Griffin | [Github](https://github.com/SandyyMarie) | [LinkedIn](https://www.linkedin.com/in/sandy-marie/) |
+Sandy MG | [Github](https://github.com/SandyyMarie) | [LinkedIn](https://www.linkedin.com/in/sandy-marie/) |
 
 ##
 
