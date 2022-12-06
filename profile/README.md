@@ -2,7 +2,7 @@
   <img src="" />
 </p>
 
-# BookMarked
+# Bookmarked
 
 [Front End Repository](https://github.com/The-Readers-Collective/bookmarked-ui)
 
