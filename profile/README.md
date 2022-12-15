@@ -15,7 +15,7 @@ The Reader's Collective is a group of students from the Turing School of Softwar
 
 ## How / Under the hood
 
-[TBA]
+We have consumed the [Google Books API](https://developers.google.com/books) in order to search for books to add into our database as an owned book. 
 
 ## If we had unlimited time:
 Users would be able to:
