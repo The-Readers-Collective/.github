@@ -9,16 +9,19 @@
 [Back End Repository](https://github.com/The-Readers-Collective/bookmarked-api)
 
 ## Overview
-
-[TBA]
+The Reader's Collective is a group of students from the Turing School of Software and Design who wanted an efficient and user-friendly way to share their libraries with other users. As the Capstone project for the seven-month intensive program, it was an opportunity for both programs to work together for the first time as a full-stack team.
 
 ## How / Under the hood
 
 [TBA]
 
 ## If we had unlimited time:
-
-[TBA]
+Users would be able to:
+- Follow fellow users and their libraries
+- Message with fellow users to arrange for book swaps
+- Search for books and users within a specified radius of their location
+- Select which language they would like the view that app in
+- Search for books additionally by language and subject matter / topic
 
 ## Contributors
 
