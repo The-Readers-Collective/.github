@@ -2,7 +2,8 @@
 <img width='200' alt='Bookmarked logo' src='https://user-images.githubusercontent.com/102934145/207666618-8a5db8d8-3604-42bd-adf3-61c3a810be41.png'>
 </p>
 <h1 align="center">The Reader's Collective</h1>
-<h1 align="center"> Bookmarked </h1>
+
+# Bookmarked 
 
 ## Overview
 The Reader's Collective is a group of students from the Turing School of Software and Design who wanted an efficient and user-friendly way to share their libraries with other users. As the Capstone project for the seven-month intensive program, it was an opportunity for both programs to work together for the first time as a full-stack team.
