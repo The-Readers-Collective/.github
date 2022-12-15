@@ -33,9 +33,7 @@ Users would be able to:
 
 Stephanie G | [Github](https://github.com/stephanieguzm) | [LinkedIn](https://www.linkedin.com/in/stephanie-guzman-sdsw/) |
 
-<img src="https://avatars.githubusercontent.com/u/102000070?s=120&v=4" />
-
-Marianne B | [Github](https://github.com/mhbarton) | [LinkedIn](https://www.linkedin.com/in/marianne-barton-1307/) |
+<img src="https://avatars.githubusercontent.com/u/102000070?s=120&v=4" /> Marianne B | [Github](https://github.com/mhbarton) | [LinkedIn](https://www.linkedin.com/in/marianne-barton-1307/) |
 
 <img src="https://avatars.githubusercontent.com/u/102934145?s=120&v=4" />
 
