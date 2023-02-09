@@ -15,6 +15,8 @@
 >
 </iframe>
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KScl2mCzVu4/0.jpg)](https://www.youtube.com/watch?v=KScl2mCzVu4)
+
 ## Overview
 The Reader's Collective is a group of students from the Turing School of Software and Design who wanted an efficient and user-friendly way to share their libraries with other users. As the Capstone project for the seven-month intensive program, it was an opportunity for both programs to work together for the first time as a full-stack team.
 
