@@ -5,7 +5,7 @@
 
 # Bookmarked 
 
-Check out our project video below!
+Check out our project video!
 [![Intro Video](https://img.youtube.com/vi/KScl2mCzVu4/0.jpg)](https://www.youtube.com/watch?v=KScl2mCzVu4)
 
 ## Overview
